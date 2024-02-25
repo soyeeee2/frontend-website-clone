@@ -16,6 +16,8 @@
 - [BEM 방법론](https://getbem.com/introduction/)을 활용하여 클래스 명을 작성한다.
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
+- [**Github Pages**](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)를 통해 웹 페이지를 배포한 후, 배포 링크는 **PR 내용**에 기재하여 제출한다.
+- 3주차 과제는 3월 3일 자정까지 제출한다.
 
 ## 🚀 과제 진행 요구 사항
 
